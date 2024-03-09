@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+form label{
+  display: inline-block;
+  width: 200px;
+}
+
+form div{
+  margin: 15px;
+}
+
+form {
+  background-color: cadetblue;
+  display: inline-block;
+  margin: 20px;
+  padding: 30px;
+}
+
+.profilepic{
+  width: 200px;
+  height: 250px;
+  border: 2px black solid;
+  object-fit: contain;
+  background-color: black;
+}
+.profilepic1{
+  width: 500px;
+  height: 350px;
+  border: 2px black solid;
+  object-fit: contain;
+  background-color: black;
+}
+a{
+  font-size: 1.5rem;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+nav{
+  background-color: aquamarine;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  
+}
